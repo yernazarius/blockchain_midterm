@@ -1,4 +1,6 @@
-# AI NFT Generator
+# AI NFT Generator. 
+
+## Website that generates image by your prompt
 
 ## Technology Stack & Tools
 
